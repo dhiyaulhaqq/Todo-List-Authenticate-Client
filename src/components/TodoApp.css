@@ -1,0 +1,8 @@
+.completed span {
+  text-decoration: line-through;
+  color: gray;
+}
+
+input[type="checkbox"] {
+  cursor: pointer;
+}

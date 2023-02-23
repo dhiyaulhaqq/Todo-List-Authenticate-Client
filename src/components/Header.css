@@ -1,0 +1,47 @@
+.nav {
+  justify-content: end;
+}
+
+.nav-link {
+  color: #333;
+  font-weight: 600;
+}
+
+.nav-link a:hover,
+.nav-link.active {
+  color: #0077b6;
+}
+
+.navbar-brand {
+  color: #0077b6;
+  font-weight: 600;
+}
+
+/*
+
+.nav li {
+  margin: 5px 10px;
+}
+
+ .menu {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 5px;
+  padding: 0;
+}
+.menu-item {
+  list-style-type: none;
+  margin: 5px 10px;
+}
+
+.menu-item a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.menu-item a:hover {
+  color: #0077b6;
+} */
